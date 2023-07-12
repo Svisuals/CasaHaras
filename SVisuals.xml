@@ -19,7 +19,7 @@
       <polystyle borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot description="" distance="11.1437" title="Janela-Sala" tilt="-6.14" pan="-348.48" id="Point01" target="" url="{node2}" skinid="ht_node"/>
       <hotspot description="" distance="6.67832" title="Banheiro" tilt="-3.62" pan="-153.68" id="Point02" target="" url="{node3}" skinid="ht_node"/>
-      <hotspot description="" title="" tilt="-2.35" pan="-93.33" id="Point03" target="" url="media/FilmeHaras.mp4" skinid="ht_video_file"/>
+      <hotspot description="" title="" tilt="-2.35" pan="-93.33" id="Point03" target="" url="media/Filmeharas.mp4" skinid="ht_video_file"/>
     </hotspots>
     <media>
       <sound level="1.000" pansize="10.000" startmutedmobile="0" mode="2" nodechangekeep="0" tilt="23.830" tiltsize="10.000" pan="-356.750" id="Element01" ambientlevel="0.000" loop="-1" field="90.000">

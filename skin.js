@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.13/18080
 // Filename: Layout-Op��es-Im�veis-CasaHaras.ggsk
-// Generated 2023-07-12T11:35:58
+// Generated 2023-07-12T12:57:19
 
 function pano2vrSkin(player,base) {
 	player.addVariable('BASICO', 2, false);
